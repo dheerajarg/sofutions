@@ -1,0 +1,57 @@
+Dheeraj Kumar Aragariya
+Salesforce Developer  |  Apex, LWC, Integrations
+Kathmandu, Nepal  |  +977-9854026969  |  daragariya@gmail.com
+LinkedIn: Dheerajarg  |  Trailblazer Profile available on request
+PROFESSIONAL SUMMARY
+Salesforce developer with a software engineering background, delivering custom solutions with Apex, Lightning Web Components (LWC), SOQL, and Flow. Currently supporting US-based client work (including Packsize) as a hands-on developer—building features, writing tests, supporting integrations, and contributing to Field Service (FSL) configuration and related customization when required. Comfortable collaborating with US stakeholders, owning code quality and coverage, and promoting validated changes from sandbox to production.
+CORE SKILLS
+Salesforce Development: Apex (classes, triggers, trigger handlers, test classes), LWC, SOQL, Flow; App Builder and declarative tools when they are the right fit
+Integrations: REST API–based integrations; HubSpot–SugarCRM module integration; Salesforce sync/queue patterns for external systems (request/response tracking, sync status, retry handling)
+Salesforce Field Service (FSL): Practical FSL configuration and customization support (e.g. Packsize org)—Work Order / Service Appointment process support alongside broader development work
+Delivery & Quality: Sandbox-based development, validation and code coverage before production deploy, Git, unit testing
+Collaboration: Direct communication with US client teams; Jira / Asana / Wrike; accountable delivery in engineering teams
+Additional: JavaScript, React, Node.js, PHP/Laravel, MySQL, AWS basics
+PROFESSIONAL EXPERIENCE
+Insight Workshop  |  Salesforce Developer / Consultant (Packsize – USA & related client work)
+April 2024 – Present  |  Nepal  |  US client collaboration
+Hands-on Salesforce development for Packsize and related engagements—custom Apex/LWC delivery, integrations support, automation, and practical Field Service work as part of a broader developer role.
+Build and enhance custom Salesforce solutions using Apex and Lightning Web Components (LWC) for sales and service business requirements.
+Implement Apex trigger handlers and test classes; own unit test coverage for changes before deployment.
+Select Flow or Apex based on the requirement (including Process Builder → Flow migrations where appropriate).
+Develop and maintain SOQL-backed business logic and UI components for day-to-day CRM processes.
+Support REST-oriented integrations and CRM sync work (including HubSpot–SugarCRM module-based integration where assigned).
+Work with integration queue / sync-status style patterns for external system updates—tracking requests, outcomes, and follow-up on failed syncs.
+Contribute to Salesforce Field Service (FSL) configuration and related customizations in the Packsize org (Work Order / Service Appointment process support and troubleshooting with the engineering team)—as one part of wider Salesforce delivery, not a dedicated FSL-only role.
+Validate sandbox changes and support controlled promotion to production after coverage and functional checks.
+Collaborate with US-based stakeholders on requirements, technical discussion, and delivery; available for occasional late-evening overlap calls.
+Use App Builder, paths, reports, and dashboards where declarative delivery is sufficient; keep custom engineering ownership on Apex/LWC for complex logic.
+Silver Lining Systems  |  App Developer
+March 2023 – July 2023  |  Malaysia
+React Native mobile app for i-Mesra (halal certification), with Laravel REST APIs and MySQL.
+Built and maintained RESTful APIs consumed by the mobile client.
+Requirement analysis, sprint collaboration, and Git-based delivery.
+Bidhee Pvt. Ltd  |  Senior Software Engineer
+June 2022 – September 2022  |  Nepal
+HRMS modules with Laravel, MySQL, and AWS; feature delivery, bug fixes, and client demos.
+Delivered features after requirement analysis; stabilized modules from QA feedback.
+Maintained Git workflows across development, staging, and production.
+Neo Software Pvt. Ltd  |  Software Engineer
+September 2019 – December 2021  |  Nepal
+Web applications including Nepal Oil Corporation portal (PHP Zend/CodeIgniter, Oracle / HANA) and Vehicle Registration System with eSewa payment integration.
+Built registration, application workflows, profile management, and validation.
+AWS hosting (EC2/Lightsail); collaborated with F1 Soft and DOTM on payment-integrated VRS.
+Rillmark Pvt. Ltd  |  Software Engineer
+February 2015 – August 2019  |  Nepal
+Episerver CMS/PIM and AWS for global brand sites (60+ countries, 30+ languages); client collaboration including Kenwood (UK).
+Localization, campaigns, migrations; AWS EC2, Route 53, SSL, and backup practices for live sites.
+Prima IT Solution  |  Intern
+August 2014 – January 2015  |  Kathmandu, Nepal
+Networking basics and PHP CodeIgniter user-account module; Fortigate / bandwidth support.
+EDUCATION & TRAINING
+Indian Institute of Information Technology Allahabad (IIIT Allahabad)
+B.Tech, Electronics & Communication Engineering  |  June 2010 – June 2014
+PHP Core Training (2014); ongoing Salesforce learning via Trailblazer (Apex, LWC, platform features).
+WORKING STYLE
+Developer-first delivery: Apex/LWC ownership, tests, and sandbox-to-production hygiene.
+Collaborates directly with US stakeholders; occasional evening overlap as needed.
+Accountable teammate—clear communication and reliable follow-through.
